@@ -2,7 +2,7 @@
 
 
 
-# output screenshot
+# Output screenshots
 ![image](https://github.com/user-attachments/assets/31484c53-9a4c-4153-921f-fea147b08d12)
 
 # How our dataset looksalike?
